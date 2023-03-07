@@ -1,2 +1,2 @@
 print("Hello, saya Girda")
-print("Ini adalah script pertama!")
+print("Ini adalah script pertama yang saya buatkan!")

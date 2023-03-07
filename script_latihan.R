@@ -1,1 +1,2 @@
 print("Hello, saya Girda")
+print("Ini adalah script pertama!")
